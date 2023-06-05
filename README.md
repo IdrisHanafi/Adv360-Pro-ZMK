@@ -1,6 +1,11 @@
 # ADV360-PRO-ZMK
 
-Idris Version
+Idris WIP Version
+
+### Layer 1:
+![layer1](docs/layer1.png)
+
+The rest of the layers are currently default.
 
 ## Modifying the keymap
 
