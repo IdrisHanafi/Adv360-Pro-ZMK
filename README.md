@@ -2,6 +2,9 @@
 
 Idris WIP Version
 
+### Layer 0:
+![layer0](docs/layer0.png)
+
 ### Layer 1:
 ![layer1](docs/layer1.png)
 
